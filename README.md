@@ -2,7 +2,7 @@
 "Welcome to my digital space, dedicated to showcasing my professional journey, unique skills, and handpicked projects. Dive deeper into my portfolio, discover the services I passionately offer, and get an opportunity to connect with me directly. Every section is meticulously designed to shine a spotlight on my accomplishments and offerings."
 # Personal Portfolio Website
 
-Welcome to my Personal Portfolio Website. This site is designed to showcase my skills, projects, and services, providing an insight into my professional journey and achievements.
+Welcome to my Personal Portfolio Website. This site is designed to showcase my skills, projects, and services, providing insight into my professional journey and achievements.
 
 ## Features
 
@@ -17,6 +17,7 @@ Welcome to my Personal Portfolio Website. This site is designed to showcase my s
 
 - HTML: For structuring the content of the website.
 - CSS: For styling and layout.
+- JavaScript: For Functionality 
 
 ## Installation
 
